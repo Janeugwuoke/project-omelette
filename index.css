@@ -1,5 +1,8 @@
-/* body{
-    background-color: rgb(246, 233, 218); */
+ body{
+    background-color:rgb(246, 233, 218); 
+    padding: 50px;
+ }
+
 
 /* div{border-radius: 15px;
     border-width: 80px;
